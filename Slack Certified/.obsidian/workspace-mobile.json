@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "2d2ca0ece9f9ac6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "93cd11e279b1a906",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40add818af05c3c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/2023/02/16.02.2023 Shopping.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "2eef7879806442c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "148a70f654ab84a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Slack/Design for scale. Workshop 5.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dfa6057859c48f71",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "cff7d49e9030cf31",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "b9adc0a5694606de",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "986b89349ca5ac56",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "f4d0f7da9cb7b28f",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      },
+      {
+        "id": "a46b813dfc46eab1",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "b38b24c51c5b608f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "fda8b5e54a3190da",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Spaces/Slack/Design for scale. Workshop 5.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "a45416f743f24097",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Spaces/Slack/Design for scale. Workshop 5.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "d023089cca95b24e",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Spaces/Slack/Design for scale. Workshop 5.md"
+          }
+        }
+      },
+      {
+        "id": "0e8fa593859d5250",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "148a70f654ab84a3",
+  "lastOpenFiles": [
+    "Spaces/💬 Slack.md",
+    "🌎 Home.md",
+    "Journal/2023/02/26.02.2023.md",
+    "Spaces/Slack/Design for scale. Workshop 5.md",
+    "Journal/2023/02/25.02.2023.md",
+    "Spaces/Slack/Distribute your app. Workshop 9.md",
+    "Journal/2023/02/23.02.2023.md",
+    "Journal/2023/02/22.02.2023.md",
+    "Journal/2023/02/16.02.2023 Shopping.md",
+    "Journal/2023/02/16.02.2023.md",
+    "Journal/2023/02/10.02.2023.md",
+    "Journal/2023/02/11.02.2023.md",
+    "Journal/2023/02/09.02.2023 Shopping.md",
+    "Journal/2023/02/09.02.2023.md",
+    "Journal/2023/02/01.02.2023 Shopping.md",
+    "Journal/2023/02/01.02.2023.md",
+    "Journal/2023/01/Shopping 29.01.2023.md"
+  ]
+}

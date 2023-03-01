@@ -1,0 +1,34 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 14,
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "SiObsidian",
+      "SiSalesforce",
+      "SiSlack",
+      "SiWindowsterminal",
+      "RiImageLine"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "emojiStyle": "none"
+  },
+  "Cards": "RiFile2Fill",
+  "Extras": "RiCheckboxMultipleBlankFill",
+  "Journal": "RiCalendarFill",
+  "Notes": "RiStickyNoteFill",
+  "Sources": "RiLink",
+  "Cards/Slack": "SiSlack",
+  "Cards/Salesforce Interview (Middle)": "SiSalesforce",
+  "Cards/Cheatsheets": "SiWindowsterminal",
+  "Extras/Images": "RiImageLine",
+  "Cards/Obsidian": "SiObsidian"
+}
